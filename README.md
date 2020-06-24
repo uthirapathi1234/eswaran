@@ -1,2 +1,1 @@
-
-I am learner......
+sent mail with SMTP using python
